@@ -1,0 +1,7 @@
+C:\Users\marco\source\repos\ConsoleAppParserXML\ConsoleAppParserXML\bin\Debug\ConsoleAppParserXML.exe.config
+C:\Users\marco\source\repos\ConsoleAppParserXML\ConsoleAppParserXML\bin\Debug\ConsoleAppParserXML.exe
+C:\Users\marco\source\repos\ConsoleAppParserXML\ConsoleAppParserXML\bin\Debug\ConsoleAppParserXML.pdb
+C:\Users\marco\source\repos\ConsoleAppParserXML\ConsoleAppParserXML\obj\Debug\ConsoleAppParserXML.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\ConsoleAppParserXML\ConsoleAppParserXML\obj\Debug\ConsoleAppParserXML.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ConsoleAppParserXML\ConsoleAppParserXML\obj\Debug\ConsoleAppParserXML.exe
+C:\Users\marco\source\repos\ConsoleAppParserXML\ConsoleAppParserXML\obj\Debug\ConsoleAppParserXML.pdb
